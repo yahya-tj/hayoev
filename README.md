@@ -42,3 +42,5 @@
 ### Statistics
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=hayoev&show_icons=true&include_all_commits=true&count_private=true&hide=contribs)](https://github.com/hayoev) [![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=hayoev&layout=compact)](https://github.com/hayoev/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=hayoev&include_all_commits=true&count_private=true)](https://github.com/hayoev)
