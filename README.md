@@ -4,7 +4,7 @@
 **hayoev/hayoev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 - 🔭 I’m currently working on several Java/Android projects, writing some microservices
-- 🌱 I’m currently learning Net.Core and improving skills in Java/Kotlin
+- 🌱 I’m currently learning .NET Core and improving skills in Java/Kotlin
 
 ### 📱 Connect with me:
 
