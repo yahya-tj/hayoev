@@ -23,7 +23,7 @@
 
 > I’m a software engineer specializing in building Web Applications. For the frontend I love building WebApplication using ASP.NET Core (Blazor or MVC / Razor Pages). As for the backend, I work with ASP.NET Core WebAPIs following Clean Architecture Principles. 
 > 
-> I am an active blogger too, where I share whatever I've learned. My Blog contains over 60 Detailed Articles (linked to Github Repositories) around Microsoft Technologies that brings me around 80,000 Monthly readers.
+> I am an active blogger too, where I share whatever I've learned. My Blog contains over 60 Detailed Articles (linked to Github Repositories) around Microsoft Technologies that brings me around 8000 Monthly readers.
 > 
 
 <br />
@@ -38,7 +38,7 @@
 
 
 #### Trivia
-- 📝 I blog here: http://codewithmukesh.com/
+- 📝 I blog here: http://codewithhayoev.com/
 - 📫 Follow me on Facebook [@yahya.tj](https://www.facebook.com/yahya.tj/)
 - 🦸 Endorse me / Leave a Recommendation on Linkedin [@hayoev](https://www.linkedin.com/in/hayoev/)
 - 🦸 I'm backend developer and work in [EskhataBank](https://eskhata.tj)
