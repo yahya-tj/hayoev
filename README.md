@@ -29,7 +29,8 @@
 <br />
 
 #### 💻  My latest work:
-- [Eskhata Business (2021)](https://play.google.com/store/apps/details?id=com.eskhata.online&hl=en_US&gl=US)
+- [Eskhata Business (2021)](https://business.eskhata.tj/)
+- [Eskhata Online (2021)](https://play.google.com/store/apps/details?id=com.eskhata.online&hl=en_US&gl=US)
 - [Ovozz (2020)](https://play.google.com/store/apps/details?id=tj.yahya.ovozz)
 - [Русско - Таджикский разговорник (2019)](https://play.google.com/store/apps/details?id=tj.yahya.phrasebookrutj)
 - [Парчамёбак (2018)](https://play.google.com/store/apps/details?id=tj.yahya.flagquiztj)
@@ -38,7 +39,7 @@
 
 
 #### Trivia
-- 📝 I blog here: http://codewithhayoev.com/
+- 📝 I blog here: https://hayoev.tj/
 - 📫 Follow me on Facebook [@yahya.tj](https://www.facebook.com/yahya.tj/)
 - 🦸 Endorse me / Leave a Recommendation on Linkedin [@hayoev](https://www.linkedin.com/in/hayoev/)
 - 🦸 I'm backend developer and work in [EskhataBank](https://eskhata.tj)
