@@ -40,7 +40,7 @@
 
 #### Trivia
 - 📝 I blog here: https://hayoev.tj/
-- 📫 Follow me on Facebook [@yahya.tj](https://www.facebook.com/yahya.tj/)
+- 📫 Follow me on Facebook/Instagram [@yahya.tj](https://www.facebook.com/yahya.tj/) [@yahya.tj](https://www.instagram.com/yahya.tj/)
 - 🦸 Endorse me / Leave a Recommendation on Linkedin [@hayoev](https://www.linkedin.com/in/hayoev/)
 - 🦸 I'm backend developer and work in [EskhataBank](https://eskhata.tj)
 
