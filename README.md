@@ -9,8 +9,8 @@
 </ul>
 <h2>🔭 Technical Skills</h2>
 <ul>
-    <li>[C#]</li>
-    <li>.NET Framework and .NET</li>
+    <li>C#</li>
+    <li>.NET and .NET Framework</li>
     <li>ASP.NET Core</li>
     <li>Entity Framework</li>
     <li>PostgreSQL</li>
@@ -25,9 +25,9 @@
 </ul>
 <h2>🌐 My Work</h2>
 <ul>
-   <!-- <li>[Link to GitHub repository 1]</li>
-    <li>[Link to GitHub repository 2]</li>
-    <li>[Link to GitHub repository 3]</li>-->
+    <!-- <li>[Link to GitHub repository 1]</li>
+     <li>[Link to GitHub repository 2]</li>
+     <li>[Link to GitHub repository 3]</li>-->
 </ul>
 <h2>📝 Blog Posts</h2>
 <ul>
@@ -37,7 +37,7 @@
 </ul>
 <h2>🏆 Awards and Certifications</h2>
 <ul>
-   <!-- <li>[Certification 1]</li>
-    <li>[Certification 2]</li>
-    <li>[Award 1]</li>-->
+    <!-- <li>[Certification 1]</li>
+     <li>[Certification 2]</li>
+     <li>[Award 1]</li>-->
 </ul>
